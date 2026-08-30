@@ -1,0 +1,4 @@
+conjunto,filas_totales,filas_con_fuga,pct_con_fuga
+train,2805,90,3.21
+validacion,1092,58,5.31
+test,1273,113,8.88

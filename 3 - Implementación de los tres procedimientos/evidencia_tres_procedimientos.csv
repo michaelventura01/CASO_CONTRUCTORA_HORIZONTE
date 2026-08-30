@@ -1,0 +1,4 @@
+procedimiento,n_test,huella_test_sha256_16,mae,rmse,pct_subestimaciones,mae_subestimacion,mae_sobrestimacion,mejora_pct_sobre_ingeniero
+Baseline operativo (ingeniero),1273,40e463d204777e03,121.76,238.54,0.436,27.21,195.89,0.0
+Modelo mínimo (Regresión Lineal),1273,40e463d204777e03,143.43,159.24,0.61,150.93,131.71,-17.8
+Modelo alternativo (Random Forest),1273,40e463d204777e03,131.23,169.25,0.764,162.35,30.75,-7.78
